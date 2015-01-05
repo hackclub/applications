@@ -1,5 +1,9 @@
 # YC Application
 
+__Moved [here](https://github.com/hackedu/docs/blob/master/applications/yc_w15.md).__
+
+---
+
 hackEDU's nonprofit YC application for W15.
 
 ### Application
